@@ -1,0 +1,12 @@
+{
+  "name": "Fireworks App",
+  "author": {
+    "name": "Daniel Ribeiro",
+    "email": "dribeiro@zendesk.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": "top_bar",
+  "version": "1.0",
+  "frameworkVersion": "1.0"
+}
